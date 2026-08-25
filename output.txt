@@ -1,2 +1,1 @@
-Enter a number: 3
-Sum of first 3 natural numbers is: 6
+1
